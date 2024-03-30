@@ -23,7 +23,7 @@ To develop a Recurrent Neural Network model for stock price prediction.
 ## Program
 #### Name:GOWTHAM N
 #### Register Number:212222220013
-```
+```python
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
