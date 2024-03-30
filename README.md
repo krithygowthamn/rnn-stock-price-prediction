@@ -7,6 +7,9 @@ To develop a Recurrent Neural Network model for stock price prediction.
 ## Problem Statement and Dataset
 
 
+![image](https://github.com/krithygowthamn/rnn-stock-price-prediction/assets/122247810/d02efadb-d184-40d7-86f3-bfa8e6e2d329)
+
+
 ## Design Steps
 
 ### Step 1:Prepare training data by scaling and creating sequences.
@@ -96,7 +99,8 @@ plt.show()
 
 ### Mean Square Error
 
-Include the mean square error
+
+![image](https://github.com/krithygowthamn/rnn-stock-price-prediction/assets/122247810/450b5e55-30c6-44e0-92db-7e1b794d9978)
 
 ## Result
 
